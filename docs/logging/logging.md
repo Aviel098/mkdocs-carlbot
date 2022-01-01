@@ -67,3 +67,4 @@
 	| everything | Every single event | 4194303 | depends |
 	| nothing | Nothing! | 0 | -- |
 	| default | Some messages and member events | 1019 | depends |
+        | ?suggest | Some messages and member events | 1 | voicechannel |
