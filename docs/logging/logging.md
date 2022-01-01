@@ -66,4 +66,4 @@
 	| voice | All voice events | 57344 | voicechannel |
 	| everything | Every single event | 4194303 | depends |
 	| nothing | Nothing! | 0 | -- |
-	| default | Some messages and member events | 1019 | depends |
+        | ?suggest | Channel | 144 | voicechannel |
